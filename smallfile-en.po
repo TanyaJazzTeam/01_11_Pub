@@ -3,6 +3,7 @@ msgid "A screenshot of a website using AMP."
 msgstr ""
 
 #: /views/partials/format-visuals/websites.j2:10
+msgctxt "[url=https://gitlocalize.com/repo/6688/whole_project?utm_source=badge][img]https://gitlocalize.com/repo/6688/whole_project /badge.svg[/img][/url]"
 msgid "A screenshot showing amp-sidebar."
 msgstr ""
 
